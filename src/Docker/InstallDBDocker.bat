@@ -1,0 +1,1 @@
+﻿docker run -d --name oracle_practice -p 1521:1521 -e ORACLE_PASSWORD=##### gvenzl/oracle-xe
