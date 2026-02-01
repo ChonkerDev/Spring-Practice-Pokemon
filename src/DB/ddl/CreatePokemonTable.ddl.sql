@@ -1,0 +1,8 @@
+﻿CREATE TABLE POKEMON (
+    Pokemon_Id NUMBER PRIMARY KEY,
+    Display_Name VARCHAR2(50),
+    Type_One VARCHAR2(20),
+    Type_Two VARCHAR2(20)
+);
+
+COMMIT;
